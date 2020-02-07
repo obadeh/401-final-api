@@ -1,5 +1,5 @@
-'use strict';
 
+// error middleware
 module.exports = (err, req, res, next) => {
   let error = { error: err };
   res.statusCode = 500;

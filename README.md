@@ -15,8 +15,8 @@
 
 i.e.
 
-- `PORT` - Port Number
-- `MONGODB_URI` - URL to the running mongo instance/db
+- `PORT` - 3000
+- `MONGODB_URI` - MONGODB_URI=mongodb://localhost:27017/lab-10-db
 
 #### How to initialize/run your application (where applicable)
 
@@ -29,3 +29,5 @@ i.e.
 - Describe any tests that you did not complete, skipped, etc
 
 #### UML
+
+![uml](./ss.png)
